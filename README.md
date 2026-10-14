@@ -1,10 +1,12 @@
 # PayCreate website preview
 
-[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=orbit-9)
+[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=feedback-10)
 
-[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=orbit-9)
+[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=feedback-10)
 
-Design preview for review with Jason. The October 14 hero adds a complete 12-second payment animation: a reflective emerald orbit, rotating metal card, contactless pulse, approval, and receipt printing. Desktop uses interactive 3D; phones use a localized 1.5 MB film of the same sequence. Replay, global pause, reduced motion, and static fallbacks are included. The orbit stays behind the checkout window and other products throughout the loop, including desktop hover tilt; the phone films and posters include the same correction. Includes the eight public marketing pages in English, Spanish, and French, original 3D product animation, and real business photography. The latest refinement gives phones a dedicated layout with readable text, large touch targets, a full-width call button, balanced product artwork, and booking near the top of the contact page. Tablet and desktop layouts preserve the same green-and-white identity. The responsive pass checked 24 pages at eight widths in Chromium and WebKit. The latest update removes repeated gallery photos from the solution explorer; its text panels were checked at phone, tablet, and desktop widths in all three languages.
+Design preview for review with Jason. The homepage reads “Payment processing. Custom made for your business.” Phones start with the headline and prominent free statement analysis and scheduling buttons. Analysis opens Statement Genie directly; every “Schedule a call” action opens Calendly. Jason's portrait has a single “Meet Jason Baker” link.
+
+The green-and-white identity, real business photography, and 12-second payment animation remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
 
 This repository contains the compiled static marketing preview. The application source, authenticated portal, APIs, private data, and environment configuration are not included. This preview does not replace the production website or the planned Railway deployment. Search indexing is disabled.
 
