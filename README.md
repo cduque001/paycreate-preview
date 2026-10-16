@@ -1,10 +1,10 @@
 # PayCreate website preview
 
-[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=reveal-14)
+[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=flow-15)
 
-[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=reveal-14)
+[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=flow-15)
 
-Design preview for review with Jason. The latest update introduces a short payment reveal, tap, approval, and receipt sequence. The enlarged checkout window keeps $42.00 clearly visible. The animation holds its final frame and can be replayed. The pause button and customer-section supporting text and View all control have been removed. Larger customer logos remain, led by Juice Generation. Merchant signup links to the existing Typeform, and FoodHub has its redesigned partner page.
+Design preview for review with Jason. An independent UX designer and interaction developer reviewed this update. Three visible photo cards replace the repeated solution choices, and all fee-review steps are readable without extra controls. Phone cards are compact linked rows; desktop navigation is easier to read. The founder portrait clearly labels its calendar action. Language changes preserve the current section, and Escape closes the language dropdown reliably. The opening payment animation, enlarged customer logos, Typeform signup, and redesigned FoodHub page remain available.
 
 The green-and-white identity, real business photography, and 4.75-second payment sequence remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
 
