@@ -1,12 +1,12 @@
 # PayCreate website preview
 
-[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=loop-17)
+[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=motion-18)
 
-[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=loop-17)
+[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=motion-18)
 
-Design preview for review with Jason. The opening payment sequence now loops automatically on desktop and phone. The scene label, illustrative caption, location label, and scroll prompt are removed. Larger useful text, concise fee-review steps, one full pricing comparison on Payment Solutions, and compact Contact, FoodHub, and footer sections remain available. Customer logos, Typeform signup, offer conditions, and booking destinations are preserved.
+Design preview for review with Jason. The opening payment sequence now runs in a quicker, smoother 3.6-second loop on desktop and phone. The oversized PayCreate footer wordmark is restored. The scene label, illustrative caption, location label, and scroll prompt are removed. Larger useful text, concise fee-review steps, one full pricing comparison on Payment Solutions, and concise Contact and FoodHub sections remain available. Customer logos, Typeform signup, offer conditions, and booking destinations are preserved.
 
-The green-and-white identity, real business photography, and 4.75-second payment sequence remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
+The green-and-white identity, real business photography, and 3.6-second payment sequence remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
 
 This repository contains the compiled static marketing preview. The application source, authenticated portal, APIs, private data, and environment configuration are not included. This preview does not replace the production website or the planned Railway deployment. Search indexing is disabled.
 
