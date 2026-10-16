@@ -1,10 +1,10 @@
 # PayCreate website preview
 
-[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=flow-15)
+[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=readability-16)
 
-[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=flow-15)
+[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=readability-16)
 
-Design preview for review with Jason. An independent UX designer and interaction developer reviewed this update. Three visible photo cards replace the repeated solution choices, and all fee-review steps are readable without extra controls. Phone cards are compact linked rows; desktop navigation is easier to read. The founder portrait clearly labels its calendar action. Language changes preserve the current section, and Escape closes the language dropdown reliably. The opening payment animation, enlarged customer logos, Typeform signup, and redesigned FoodHub page remain available.
+Design preview for review with Jason. The accepted readability critique is implemented across English, Spanish, and French: larger buttons and useful text, concise fee-review steps, one full pricing comparison on Payment Solutions, and shorter partner, Contact, FoodHub, and footer sections. The critic rechecked desktop, laptop, and narrow phone layouts and found no remaining necessary fixes in the reviewed areas. The normal-motion homepage at 390px is about 26% shorter. Customer logos, the payment animation, Typeform signup, offer conditions, and booking destinations remain available.
 
 The green-and-white identity, real business photography, and 4.75-second payment sequence remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
 
