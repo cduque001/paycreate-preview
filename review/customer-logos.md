@@ -14,6 +14,9 @@ The manifest is `lib/marketing/customer-logos.ts`; files live in
 The homepage now centers larger logos without visible captions; descriptive image
 alt text keeps customer names available to screen readers. Juice Generation leads
 the list with a slightly larger mark and a subtle green card border.
+The section heading now stands alone without supporting text or a View all
+control. Animated rails pause on hover; reduced-motion and no-JavaScript visitors
+receive the complete static grid.
 
 | Customer | Original asset |
 | --- | --- |

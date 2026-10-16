@@ -1,12 +1,12 @@
 # PayCreate website preview
 
-[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=logos-13)
+[Open the interactive website](https://cduque001.github.io/paycreate-preview/en/?v=reveal-14)
 
-[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=logos-13)
+[Watch the walkthrough and view screenshots](https://cduque001.github.io/paycreate-preview/review/?v=reveal-14)
 
-Design preview for review with Jason. The latest October 16 update enlarges the customer logos, removes their captions, and features a crisp full Juice Generation logo first in the pausable animated showcase. The earlier update added an accessible Solutions menu and merchant signup through the existing Typeform. The redesigned FoodHub page presents three months of free online ordering and a $450 USD Kiosk Pro credit with the applicable terms beside each offer. The homepage reads “Payment processing. Custom made for your business.” Phones start with the headline and one clear “Schedule a call” button. The review section links directly to Statement Genie. Scheduling buttons and Jason's “Meet Jason Baker” portrait link open his appointment calendar directly.
+Design preview for review with Jason. The latest update introduces a short payment reveal, tap, approval, and receipt sequence. The enlarged checkout window keeps $42.00 clearly visible. The animation holds its final frame and can be replayed. The pause button and customer-section supporting text and View all control have been removed. Larger customer logos remain, led by Juice Generation. Merchant signup links to the existing Typeform, and FoodHub has its redesigned partner page.
 
-The green-and-white identity, real business photography, and 12-second payment animation remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
+The green-and-white identity, real business photography, and 4.75-second payment sequence remain. Desktop uses interactive 3D; phones play localized lightweight films. The orbit stays behind the products. The preview includes eight public pages in English, Spanish, and French, with responsive layouts, touch controls, and reduced-motion fallbacks.
 
 This repository contains the compiled static marketing preview. The application source, authenticated portal, APIs, private data, and environment configuration are not included. This preview does not replace the production website or the planned Railway deployment. Search indexing is disabled.
 
