@@ -1,8 +1,8 @@
 # PayCreate × Blismo
 
-[Open the mobile proposal](https://cduque001.github.io/paycreate-preview/collateral/paycreate-blismo/?v=2) · [Download the PDF](https://cduque001.github.io/paycreate-preview/collateral/paycreate-blismo/PayCreate_Blismo_Proposal.pdf?v=2)
+[Open the mobile proposal](https://cduque001.github.io/paycreate-preview/collateral/paycreate-blismo/?v=3) · [Download the PDF](https://cduque001.github.io/paycreate-preview/collateral/paycreate-blismo/PayCreate_Blismo_Proposal.pdf?v=3)
 
-Software and payment processing proposal, November 20, 2026. Design revision 2 follows the established PayCreate proposal style.
+Software and payment processing proposal, November 20, 2026. Design revision 3 adds larger PayCreate and Blismo branding and premium product displays with enlarged equipment photography.
 
 - Blismo: **$70.00 per month for 3 users**.
 - PayCreate: **2.5% payment processing**.
